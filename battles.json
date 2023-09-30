@@ -1,0 +1,29 @@
+[
+  {
+      "name": "Battle of Rivershore",
+      "attacker_king": "Jon Snow",
+      "defender_king": "Night King",
+      "region": "North",
+      "attacker_outcome": "win",
+      "battle_type": "siege",
+      "defender_size": 10000
+  },
+  {
+      "name": "Siege of Ironkeep",
+      "attacker_king": "Stannis Baratheon",
+      "defender_king": "Joffrey Baratheon",
+      "region": "The Crownlands",
+      "attacker_outcome": "loss",
+      "battle_type": "pitched battle",
+      "defender_size": 7500
+  },
+  {
+      "name": "Battle of Greenfields",
+      "attacker_king": "Jon Snow",
+      "defender_king": "Ramsay Bolton",
+      "region": "North",
+      "attacker_outcome": "win",
+      "battle_type": "siege",
+      "defender_size": 6000
+  }
+]
